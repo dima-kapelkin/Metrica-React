@@ -1,12 +1,12 @@
 import project1img from "../../assets/project 1.jpg"
 
-function ProjectCard() {
+function ProjectCard(props) {
     return (
         <div>
-            <div>NEW</div>
-            <img src={project1img} alt="" />
-            <p>ЖК ПРАВОБЕРЕЖНЫЙ — 112 м² — 2023</p>
-            <a href="">Подробнее</a>
+            <div>{props.isNew}</div>
+            <img src={props.image} alt={props.title} />
+            <p>{props.title} — {props.sqare}м² — {props.year}</p>
+            <a href={props.link}>Подробнее</a>
         </div>
     )
 }
