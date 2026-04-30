@@ -1,7 +1,7 @@
 import React from 'react';
-import HeroSection from './components/HeroSection';
-import AboutSection from './components/AboutSection';
-import Projects from './components/Projects';
+import HeroSection from './components/Hero/HeroSection';
+import AboutSection from './components/About/AboutSection';
+import Projects from './components/Project/Projects';
 
 
 
