@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Metrica-React/static/css/main.e3c95ad9.css",
+    "main.js": "/Metrica-React/static/js/main.8b87ffb7.js",
+    "static/js/453.6a323c2d.chunk.js": "/Metrica-React/static/js/453.6a323c2d.chunk.js",
+    "static/media/Header.png": "/Metrica-React/static/media/Header.c3dfdef2364302f83439.png",
+    "static/media/project 2.jpg": "/Metrica-React/static/media/project 2.82ddd426f1096fb12e0a.jpg",
+    "static/media/project 3.jpg": "/Metrica-React/static/media/project 3.a1aa2638bd571a9a401e.jpg",
+    "static/media/project 1.jpg": "/Metrica-React/static/media/project 1.dbd2469d4d662a8df9a7.jpg",
+    "index.html": "/Metrica-React/index.html",
+    "main.e3c95ad9.css.map": "/Metrica-React/static/css/main.e3c95ad9.css.map",
+    "main.8b87ffb7.js.map": "/Metrica-React/static/js/main.8b87ffb7.js.map",
+    "453.6a323c2d.chunk.js.map": "/Metrica-React/static/js/453.6a323c2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3c95ad9.css",
+    "static/js/main.8b87ffb7.js"
+  ]
+}
